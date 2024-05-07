@@ -3,7 +3,8 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/connectshark/bun-hono.svg?style=flat)](https://github.com/connectshark/bun-hono)
 ![GitHub stars](https://img.shields.io/github/stars/connectshark/bun-hono.svg?style=social&label=Stars&style=plastic)
 
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) 
+<img style="width: 80px;" src="./readme/hono-title.png">
 
 使用Bun + Hono框架撰寫的後端程式，可以用JS極高速開發後端程式。
 
