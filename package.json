@@ -1,0 +1,22 @@
+{
+  "name": "hono-template",
+  "version": "1.0.0",
+  "description": "快速開發hono框架",
+  "license": "MIT",
+  "module": "server.js",
+  "homepage": "https://github.com/connectshark/hono-template",
+  "author": {
+    "name": "Chambers Yeh",
+    "url": "https://github.com/connectshark"
+  },
+  "scripts": {
+    "dev": "bun run --hot server.js",
+    "start": "bun run server.js"
+  },
+  "dependencies": {
+    "hono": "^4.2.9"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
