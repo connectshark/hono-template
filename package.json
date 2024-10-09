@@ -14,7 +14,7 @@
     "start": "bun run server.js"
   },
   "dependencies": {
-    "hono": "^4.2.9"
+    "hono": "latest"
   },
   "devDependencies": {
     "@types/bun": "latest"
